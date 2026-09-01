@@ -22,7 +22,7 @@ version = "0.1.0"
 edition = "2024"
 rust-version = "1.97"
 license = "Apache-2.0"
-repository = "https://github.com/clafollett/lldb"
+repository = "https://github.com/lafollett-labs/lldb"
 authors = ["Cali LaFollett <cali.lafollett@gmail.com>"]
 description = "A distributed analytical query engine (DataFusion + Arrow Flight + Iceberg)."
 
