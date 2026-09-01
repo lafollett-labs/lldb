@@ -271,7 +271,7 @@ cargo test
   warehouse root per tenant; TLS on both Flight boundaries; and a signed, short-lived assertion
   that carries the plan-time check's answer to the worker
 
-Open work is tracked as [issues](https://github.com/clafollett/lldb/issues). The themes:
+Open work is tracked as [issues](https://github.com/lafollett-labs/lldb/issues). The themes:
 
 - **Observability** — no query profile and no execution metrics ([#61]), and query history cannot
   say who ran a query ([#60])
@@ -289,21 +289,21 @@ Open work is tracked as [issues](https://github.com/clafollett/lldb/issues). The
   REST catalog; publishing versioned images to a registry from CI ([#7]); validating the CDK
   stack with a real deploy ([#9])
 
-[#7]: https://github.com/clafollett/lldb/issues/7
-[#9]: https://github.com/clafollett/lldb/issues/9
-[#39]: https://github.com/clafollett/lldb/issues/39
-[#40]: https://github.com/clafollett/lldb/issues/40
-[#41]: https://github.com/clafollett/lldb/issues/41
-[#59]: https://github.com/clafollett/lldb/issues/59
-[#60]: https://github.com/clafollett/lldb/issues/60
-[#61]: https://github.com/clafollett/lldb/issues/61
-[#62]: https://github.com/clafollett/lldb/issues/62
-[#63]: https://github.com/clafollett/lldb/issues/63
-[#64]: https://github.com/clafollett/lldb/issues/64
-[#66]: https://github.com/clafollett/lldb/issues/66
-[#67]: https://github.com/clafollett/lldb/issues/67
-[#68]: https://github.com/clafollett/lldb/issues/68
-[#69]: https://github.com/clafollett/lldb/issues/69
+[#7]: https://github.com/lafollett-labs/lldb/issues/7
+[#9]: https://github.com/lafollett-labs/lldb/issues/9
+[#39]: https://github.com/lafollett-labs/lldb/issues/39
+[#40]: https://github.com/lafollett-labs/lldb/issues/40
+[#41]: https://github.com/lafollett-labs/lldb/issues/41
+[#59]: https://github.com/lafollett-labs/lldb/issues/59
+[#60]: https://github.com/lafollett-labs/lldb/issues/60
+[#61]: https://github.com/lafollett-labs/lldb/issues/61
+[#62]: https://github.com/lafollett-labs/lldb/issues/62
+[#63]: https://github.com/lafollett-labs/lldb/issues/63
+[#64]: https://github.com/lafollett-labs/lldb/issues/64
+[#66]: https://github.com/lafollett-labs/lldb/issues/66
+[#67]: https://github.com/lafollett-labs/lldb/issues/67
+[#68]: https://github.com/lafollett-labs/lldb/issues/68
+[#69]: https://github.com/lafollett-labs/lldb/issues/69
 
 ## Deploying to AWS
 
